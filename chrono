@@ -5,10 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="refresh" content="0;URL='https://alt-f4.de'">
-    <title>alt-f4.dev</title>
-    <meta name="go-import" content="alt-f4.dev/connect git https://github.com/af4/connect">
+    <title>alt-f4.dev/chrono</title>
     <meta name="go-import" content="alt-f4.dev/chrono git https://github.com/af4/chrono">
-    <meta name="go-import" content="alt-f4.dev/presentations git https://github.com/af4/presentations">
 </head>
 <body>
     Redirecting you to the <a href="https://alt-f4.de">home page of Alt F4</a>&hellip;

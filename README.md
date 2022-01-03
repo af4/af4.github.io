@@ -1,4 +1,4 @@
-# Serve Vanity URLs for alt-f4.de
+# Serve Vanity URLs via alt-f4.dev
 
 This repository is responsible for serving vanity URLs for Go libraries.
 
