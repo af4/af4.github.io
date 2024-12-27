@@ -1,0 +1,17 @@
+<svg width="17" height="14" xmlns="http://www.w3.org/2000/svg">
+  <style>
+  .rect { fill: #fff; }
+  .text { fill: #000; }
+  .border { fill: #6ec72e; }
+  @media (prefers-color-scheme: dark) {
+    .rect { fill: #fff; }
+    .text { fill: #000; }
+    .border { fill: #6ec72e; }
+  }
+  </style>
+  <g fill="none" fill-rule="evenodd">
+    <path class="rect" d="M0 0h15v12H0z"/>
+    <path class="text" fill-rule="nonzero" d="M4.6 4.31v1.76h1.906v.856H4.601v2.207h-.847V3.454h3.722v.856H4.6m6.749.912v.846h-1.136c-.449 0-.638-.227-.638-.656l.001-1.957H8.72v1.958c.001.944.665 1.51 1.495 1.51h1.134v2.21h.846v-3.91h-.846" />
+    <path class="border" fill-rule="nonzero" d="M.592 13.262L0 12.074h14.893V0l1.188.592v12.67H.591"/>
+  </g>
+</svg>
